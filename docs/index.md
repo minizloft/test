@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to MkDocs (https://minizloft.github.io/test/index.html)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
