@@ -1,7 +1,7 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-For project documentation visit [mkdocs.org](https://minizloft.github.io/test)
+For project documentation visit [minizloft.github.io](https://minizloft.github.io/test)
 
 ## Commands
 
